@@ -1,0 +1,49 @@
+
+.skills {  
+    border: 1px solid black;
+}
+
+.skills img {
+    margin-left:4rem;
+    height:100px;
+    width:100px;
+}
+
+table, th, td {
+    border:1px solid green;
+    padding: 0.8rem;
+}
+.personal {  
+    border: 1px dashed black;
+    margin-top: 1rem;
+}
+#qualifications{
+    width: 100%;
+}
+
+.qualifications-table {
+    width:100%;
+}
+div{
+    border: 1px solid orange; 
+}
+#qualifications table {
+    border: 5px solid crimson;
+}
+#qualifications th {
+    border: 2px solid rgb(51, 46, 104);
+}
+.header{
+    width: 100%;
+    margin-bottom: 1rem;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.email{
+    display: flex;
+    align-items: center;
+    
+}.mail{
+    margin-left: 5rem;
+}
